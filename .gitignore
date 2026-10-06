@@ -1,0 +1,6 @@
+*.local.php
+.DS_Store
+uploads/*
+!uploads/.htaccess
+!uploads/default.jpg
+
